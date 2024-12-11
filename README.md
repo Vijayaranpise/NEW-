@@ -1,3 +1,3 @@
 # NEW-
-this is my first repo
-author vvr
+this is my first repo.
+author vvr.
